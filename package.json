@@ -1,0 +1,14 @@
+{
+  "name": "@amos/storage-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madeline <maddie@qnzl.co>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.3.1"
+  }
+}
